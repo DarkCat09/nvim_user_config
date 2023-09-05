@@ -9,4 +9,12 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  {
+    "stevearc/vim-arduino",
+    lazy = true,
+  },
+  {
+    "hsanson/vim-android",
+    lazy = true,
+  },
 }
